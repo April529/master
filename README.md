@@ -1,2 +1,3 @@
 # master
-My first repository
+My first repository 
+ 初次使用，适应中
