@@ -30,7 +30,23 @@
   * “活动家”上较为活跃的几家协会  
   ![屏幕快照 2018-06-28 下午10.57.55.png](https://upload-images.jianshu.io/upload_images/11078857-3ee7c60f2283413d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-4. 
+4. 协会推荐
+* 规模和优势靠前  
+  ![屏幕快照 2018-06-29 上午1.05.56.png](https://upload-images.jianshu.io/upload_images/11078857-96a47d051dae7308.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+* 各地学前协会，通常为当地教育学会领导，并受中国学前教育协会指导  
+如：
+  深圳学前教育专业委员会  
+  广东教育学会学前教育专业委员会  
+  北京学前教育研究会  
+  
+* 其他一些特色协会/联盟  
+如：
+[中国儿童戏剧研究会](http://www.ccdsacc.com/f)
+[少儿艺术专业委员会](http://www.ccacchina.cn/)
+[中国少儿编程教育联盟](www.shaoerbc.cn/)
+[中国少儿艺术教育联盟](www.yijiaolm.com/)
+
 
 ### 结论  
 1.通常会有各省市层级的学前教育研究会，主要以推进当地教学，通过各省社会组织信息网站可获得相关信息。  
@@ -47,3 +63,4 @@
 
 
 ### changelog  
+20180629 V1.0  
