@@ -13,10 +13,11 @@
 ### 分析过程  
 1. 数据来源：百度、google搜索引擎  
 [原数据](https://shimo.im/sheet/YvmK6DGbYroiReRD/RIDOC/)  
-2. 交叉验证——剔除不良数据：  
-  * [中国社会组织公共服务平台](http://www.chinanpo.gov.cn/)【“社会组织查询功能”无法使用，可以在民政部或各省社会组织信息网中查询备案情况】  
-  * 利用中国社会组织公共服务平台提供的“曝光名单”、“离岸协会”“山寨协会” 名单筛除异常民录  
-  * 利用[“活动家”](https://www.huodongjia.com/tag/3189/)上会议组织信息调查活跃度  
+2. 交叉验证  
+  2.1 剔除不良数据：  
+     * [中国社会组织公共服务平台](http://www.chinanpo.gov.cn/)【“社会组织查询功能”无法使用，可以在民政部或各省社会组织信息网中查询备案情况】  
+     * 利用中国社会组织公共服务平台提供的“曝光名单”、“离岸协会”“山寨协会” 名单筛除异常民录  
+  2.2 利用[“活动家”](https://www.huodongjia.com/tag/3189/)上会议组织信息调查活跃度  
   ![屏幕快照 2018-06-28 下午10.42.41.png](https://upload-images.jianshu.io/upload_images/11078857-ab37b24176ff8623.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 3. 筛选结果  
   * 不良数据  
